@@ -1,4 +1,4 @@
-# HotelesArandaDeDuero
+# Hoteles Aranda De Duero
 Se va a eleborar un proyecto basado en los principales <a rel="author" href="https://hotelesarandadeduero.es"> hoteles aranda de duero </a> para pdoer ofrecer a los clientes el mejor servicio a los mejores precios.
 
 Aqui un pequeño extracto del contenido que ofrece esta web
